@@ -98,7 +98,7 @@ const indexNoParens = {
 
 const default_conf = {
 	indent: "\t",
-	newline: "\n",
+	newline: "\n\n",
 	extra_newlines: true,
 	inline: {
 		block: {
